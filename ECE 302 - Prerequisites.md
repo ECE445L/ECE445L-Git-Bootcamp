@@ -68,3 +68,6 @@
   <br><img src="./Resources/mdview_file.png" alt="drawing" style="width:600px;"/>
   <br><img src="./Resources/mdview_file_2.png" alt="drawing" style="width:600px;"/>
 </details>
+
+## Next Steps
+Once you are done getting your enviorment setup continue to [ECE 319K - Becoming Dangerous](https://github.com/ECE445L/ECE445L-Git-Bootcamp/blob/main/ECE%20319K%20-%20Becoming%20Dangerous.md)
