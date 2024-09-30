@@ -5,7 +5,7 @@ Now we will do some practical excersizes to familarize you with common commands.
 ## Guides 
 <details><summary>Cloning your first repository</summary>
 	
-* Generally, you would find or create a git repo. For this tutorial you will navigate to <a href="https://classroom.github.com/a/KnHFmM-J"> A Github Classroom Link </a> which will create a repo for you.
+* Generally, you would find or create a git repo. For this tutorial you will navigate to <a href="https://classroom.github.com/a/CLCZPMlw"> A Github Classroom Link </a> which will create a repo for you.
 * After navigating to the classroom, hit accept, then follow the link as shown.
   * <details><summary>Accepting the assignment</summary><img src="./Resources/319K/clone_accept.png" alt="drawing" style="width:600px;"/></details>
   * <details><summary>Following the link</summary><img src="./Resources/319K/clone_nav.png" alt="drawing" style="width:600px;"/></details>
